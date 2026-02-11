@@ -243,8 +243,7 @@ AJ❤️
         }} transition={{
           delay: 1
         }}>
-              p.s. I knew you'd say yes ;)
-              Now call me on Discord and let's enjoy our valentines <3
+              I knew you'd say yes ;) Now call me on Discord and let's enjoy our valentines x
             </motion.p>
             <motion.div className="text-6xl animate-heart-beat inline-block" initial={{
           scale: 0
